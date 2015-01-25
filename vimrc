@@ -17,7 +17,7 @@ set nocompatible             " No to the total compatibility with the ancient vi
 
 " TODO use vimscript to check update, this will leave some blank lines after
 " leaving vim
-silent !sh $OH_MY_VIM/tools/check_for_upgrade.sh
+" silent !sh $OH_MY_VIM/tools/check_for_upgrade.sh
 
 " Load external configuration before anything else {{{
 
